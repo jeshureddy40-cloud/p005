@@ -18,3 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 <!-- Redeployment trigger: 2026-01-31 11:00 AM IST -->
+<!-- Trigger: HashRouter fix deployment -->
